@@ -1,63 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\n\n\n\nLearn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
-  },
-  {
-    "objectID": "index.html#about-this-portfolio",
-    "href": "index.html#about-this-portfolio",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "This portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages."
-  },
-  {
-    "objectID": "index.html#skills-im-learning",
-    "href": "index.html#skills-im-learning",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
-  },
-  {
-    "objectID": "index.html#my-projects",
-    "href": "index.html#my-projects",
-    "title": "Welcome to My Data Science Portfolio",
-    "section": "",
-    "text": "Learn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
-  },
-  {
-    "objectID": "projects/index.html#all-projects",
-    "href": "projects/index.html#all-projects",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
-  },
-  {
-    "objectID": "projects/eda.html",
-    "href": "projects/eda.html",
-    "title": "EDA Project",
-    "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
-    "crumbs": [
-      "EDA Project"
-    ]
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -100,11 +42,101 @@
     "text": "Contact\n\nEmail: your.email@example.com\nGitHub: github.com/your-username\nLinkedIn: linkedin.com/in/your-profile\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
   },
   {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#all-projects",
+    "href": "projects/index.html#all-projects",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/eda.html",
+    "href": "projects/eda.html",
+    "title": "EDA Project",
+    "section": "",
+    "text": "This is coming down the pipeline. Check again later.",
+    "crumbs": [
+      "EDA Project"
+    ]
+  },
+  {
     "objectID": "projects/data-acquisition.html",
     "href": "projects/data-acquisition.html",
     "title": "Data Acquisition Project",
     "section": "",
-    "text": "This is coming down the pipeline. Check again later.",
+    "text": "alt",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#questions-of-interest",
+    "href": "projects/data-acquisition.html#questions-of-interest",
+    "title": "Data Acquisition Project",
+    "section": "Questions of Interest:",
+    "text": "Questions of Interest:\n\nHow much of an impact does active roster spending have on a team’s regular season win percentage?\nHow has NFL spending change in the last 7 seasons (2019-2025)?\nDoes a team’s average age have an impact on their scoring production?\nHow much does dead cap (essentially wasted money) hurt a team’s active roster spending and win percentage?",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#data-ethics",
+    "href": "projects/data-acquisition.html#data-ethics",
+    "title": "Data Acquisition Project",
+    "section": "Data Ethics",
+    "text": "Data Ethics\nAfter reading through the terms and conditions of both of my data sources, I confirmed that my usage of the data was ethical. Both websites approved of downloading their data in the form of csv files so long as the usage is purley educational and doesn’t either any competitive or commercial benefit.",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#getting-the-data",
+    "href": "projects/data-acquisition.html#getting-the-data",
+    "title": "Data Acquisition Project",
+    "section": "Getting the Data",
+    "text": "Getting the Data\n\nPro Football Reference:\n\nThis source has many tables with data for each NFL season. There is an option to convert each table into the csv format. Then you have to create an empty csv file and paste the data into it. I did this for each season then used a for loop in python to combine the csv files. Once they were all combined I cleaned and prepared the data for analysis.\n\nSpotrac\n\nThis source did not have an option to download, however they did approve of copying/downloading their tables so long as it was not scraped from the HTML nor used commercially. For each season, I copy and pasted the table into an excel file and converted it into a csv file. I then used a for loop to combine all the csv files, each with a distinct year. I then cleaned this data.\n\nPutting it together\n\nI merged the datasets by Team and Year after they had been cleaned and prepared.",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#eda-highlights",
+    "href": "projects/data-acquisition.html#eda-highlights",
+    "title": "Data Acquisition Project",
+    "section": "EDA highlights",
+    "text": "EDA highlights\n\nTable Summary\n\n\n\nalt\n\n\nThis Image shows a summary of the data. The data contains the variables PF (points scored in a season), win_pct (win percentage), avg_age (average player age per team), and the other variables mentioned in the introduction. There is a total of 224 observations.\n\n\nRelationship between Active Roster Spenidng and Win Percentage (excluding 2025)\n\n\n\nalt\n\n\nThis graph shows the relationship between win percentage and how much a team is paying their roster over the last 6 seasons (2019-2024). We can see that there is a slight positive relation that varies slightly season by season. Overall, teams that are willing to spend more to acquire more talented players do tend to see benefits in terms of the team’s winning percentage.\n\n\nTotal Cap by Team over the last 7 seasons\n\n\n\nalt\n\n\nThis plot shows team’s total spending over the last 7 seasons (2019-2025). Team spending has increased significantly in just the last 7 seasons. It would be interesting to look at how much of this is due to inflation and how much can be attributed to increased NFL revenue.\n\n\nAge and Offensive Production\n\n\n\nalt\n\n\nThis graph shows the imapct between a team’s average age and their production in terms of points scored by year. Interestingly, we can see that in earlier seasons (2019-2021) it appears there actually was a slight positive relationship between an increase in average age and the amount of points a team scored that year. However, it appears this effect has disappeared in recent years (2022-2025). It would be interesting to take a deeper look and try and identify possible causes for this.\n\n\nImpact of Dead Cap on Active Spending and Win Percentage\n\n\n\nalt\n\n\nThis plot shows the realtionship between a teams dead cap spending and there active roster spending. As one would expect there is some negative relationship between dead cap and active roster spending. Seeing that the darker spots also trend more towards the bottom of the graph, we can also infer that dead cap spending can also hurt a teams win percentage as their spending becomes more limited.",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#links",
+    "href": "projects/data-acquisition.html#links",
+    "title": "Data Acquisition Project",
+    "section": "Links",
+    "text": "Links\nPro Football Reference  Spotrac Cap Data  NFL Website",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#link-to-my-repository",
+    "href": "projects/data-acquisition.html#link-to-my-repository",
+    "title": "Data Acquisition Project",
+    "section": "Link to My Repository",
+    "text": "Link to My Repository\nMy Github Repository",
     "crumbs": [
       "Data Acquisition Project"
     ]
@@ -118,5 +150,33 @@
     "crumbs": [
       "Final Project"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\n\n\n\nLearn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "This portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#skills-im-learning",
+    "href": "index.html#skills-im-learning",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Learn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
   }
 ]
