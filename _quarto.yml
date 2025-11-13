@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
 
 website:
   title: "Jonas Schiel - Data Science Portfolio"
